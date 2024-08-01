@@ -25,21 +25,26 @@
  
 ##
 <div style="display: inline_block"><br> 
-   <img align= "center" alt="will-java" heigth="40" width="40" src="https://skillicons.dev/icons?i=java" />
+  <img align= "center" alt="will-java" heigth="40" width="40" src="https://skillicons.dev/icons?i=java" />
   <img align= "center" alt="will-spring" heigth="40" width="40" src="https://skillicons.dev/icons?i=spring" />
   <img align= "center" alt="will-py" heigth="40" width="40" src="https://skillicons.dev/icons?i=python" />
-   <img align= "center" alt="will-selenium" heigth="40" width="40" src="https://skillicons.dev/icons?i=selenium" />
- <img align= "center" alt="will-pandas" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-
-   <img align=  "center" alt="will-css" heigth="40" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img align= "center" alt="will-selenium" heigth="40" width="40" src="https://skillicons.dev/icons?i=selenium" />
+  <img align= "center" alt="will-pandas" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align= "center" alt="will-css" heigth="40" width="40" src="https://skillicons.dev/icons?i=css" />
   <img align= "center" alt="will-html" heigth="40" width="40" src="https://skillicons.dev/icons?i=html" />
   <img align= "center" alt="will-js" heigth="40" width="40" src="https://skillicons.dev/icons?i=js" />
   <img align= "center" alt="will-postgresql" heigth="40" width="40" src="https://skillicons.dev/icons?i=postgresql" />
   <img align= "center" alt="will-mysql" heigth="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
-  <img align= "center" alt="will-vscode"heigth="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
+  
+</div>
+<div style="display: inline_block"><br>
+   <h1></h1>
+
+  <img align= "center" alt="will-vscode" heigth="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img align= "center" alt="will-intellij" heigth="40" width="40" src="https://skillicons.dev/icons?i=idea" />
+  <img align= "center" alt="will-eclipse" heigth="40" width="40" src="https://skillicons.dev/icons?i=eclipse" />
   <img align= "center" alt="will-pycharm" heigth="40" width="40" src="https://skillicons.dev/icons?i=pycharm" />
- <img align= "center" alt="will-postman" heigth="40" width="40" src="https://skillicons.dev/icons?i=postman" />
+  <img align= "center" alt="will-postman" heigth="40" width="40" src="https://skillicons.dev/icons?i=postman" />
   <img align= "center" alt="will-git" heigth="40" width="40" src="https://skillicons.dev/icons?i=git" /> 
   <img align= "center" alt="will-github" heigth="40" width="40" src="https://skillicons.dev/icons?i=github" /> 
   <img align= "center" alt="will-discord" heigth="40" width="40" src="https://skillicons.dev/icons?i=discord" /> 
