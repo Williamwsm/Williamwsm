@@ -25,7 +25,7 @@
 <div style="display: inline_block"><br> 
   <img align= "center" alt="will-java" heigth="40" width="40" src="https://skillicons.dev/icons?i=java" />
   <img align= "center" alt="will-spring" heigth="40" width="40" src="https://skillicons.dev/icons?i=spring" />
-  <img align= "center" alt="will-py" heigth="40" width="40" src="https://skillicons.dev/icons?i=python" />
+  <img align= "center" alt="will-python" heigth="40" width="40" src="https://skillicons.dev/icons?i=py" />
   <img align= "center" alt="will-selenium" heigth="40" width="40" src="https://skillicons.dev/icons?i=selenium" />
   <img align= "center" alt="will-pandas" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align= "center" alt="will-css" heigth="40" width="40" src="https://skillicons.dev/icons?i=css" />
@@ -33,6 +33,8 @@
   <img align= "center" alt="will-js" heigth="40" width="40" src="https://skillicons.dev/icons?i=js" />
   <img align= "center" alt="will-postgresql" heigth="40" width="40" src="https://skillicons.dev/icons?i=postgresql" />
   <img align= "center" alt="will-mysql" heigth="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img align= "center" alt="will-mongoDB" heigth="40" width="40" src="https://skillicons.dev/icons?i=mongodb" />
+ 
   
 </div>
 <div style="display: inline_block"><br>
