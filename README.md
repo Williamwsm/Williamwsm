@@ -16,9 +16,9 @@
 
 
 <div align="center"> 
-<a href="https://www.instagram.com/william_sm04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:menezes.william.sm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https:https://www.linkedin.com/in/william-santos-592767251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.instagram.com/william_sm04/" target="_blank"><img align= "center" alt="will-instagram" heigth="40" width="40" src="https://skillicons.dev/icons?i=instagram" />
+<a href = "mailto:menezes.william.sm@gmail.com"><img align= "center" alt="will-gmail" heigth="40" width="40" src="https://skillicons.dev/icons?i=gmail" />
+<a href="https:https://www.linkedin.com/in/william-santos-592767251" target="_blank"><img align= "center" alt="will-linkedin" heigth="40" width="40" src="https://skillicons.dev/icons?i=linkedin" /> 
  </div>
  
 ##
