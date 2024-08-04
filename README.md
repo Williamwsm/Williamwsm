@@ -17,7 +17,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/william_sm04/" target="_blank"><img align= "center" alt="will-instagram" heigth="40" width="40" src="https://skillicons.dev/icons?i=instagram" />
-<a href = "menezes.william.sm@gmail.com"><img align= "center" alt="will-gmail" heigth="40" width="40" src="https://skillicons.dev/icons?i=gmail" />
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmCKlQGRbkHMVllCzMtfPpFmxXVlKkvLFgcLvtPHGPvDnwHLpFbzcFrCGTfBVvTVnFLrjCv"><img align= "center" alt="will-gmail" heigth="40" width="40" src="https://skillicons.dev/icons?i=gmail" />
 <a href=" https://www.linkedin.com/in/william-santos-wsm" target="_blank"><img align= "center" alt="will-linkedin" heigth="40" width="40" src="https://skillicons.dev/icons?i=linkedin" /> 
  </div>
  
