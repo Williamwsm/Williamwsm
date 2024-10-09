@@ -18,7 +18,7 @@
 <div align="center"> 
 <a href="https://www.instagram.com/william_sm04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmCKlQGRbkHMVllCzMtfPpFmxXVlKkvLFgcLvtPHGPvDnwHLpFbzcFrCGTfBVvTVnFLrjCv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=" https://www.linkedin.com/in/william-santos-wsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/william-santos-wsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
  
 ##
@@ -34,7 +34,6 @@
   <img align= "center" alt="will-postgresql" heigth="40" width="40" src="https://skillicons.dev/icons?i=postgresql" />
   <img align= "center" alt="will-mysql" heigth="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img align= "center" alt="will-mongoDB" heigth="40" width="40" src="https://skillicons.dev/icons?i=mongodb" />
- 
   
 </div>
 <div style="display: inline_block"><br>
@@ -48,9 +47,7 @@
   <img align= "center" alt="will-git" heigth="40" width="40" src="https://skillicons.dev/icons?i=git" /> 
   <img align= "center" alt="will-github" heigth="40" width="40" src="https://skillicons.dev/icons?i=github" /> 
   <img align= "center" alt="will-discord" heigth="40" width="40" src="https://skillicons.dev/icons?i=discord" /> 
- 
- 
+
 </div>
-     
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
